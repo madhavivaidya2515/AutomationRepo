@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T15:21:05 IST" name="All Test Suite" finished-at="2024-12-15T15:21:05 IST" duration-ms="127">
+    <groups>
+      <group name="smoke">
+        <method signature="BeforeMethodExample.test_3()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" name="test_3" class="testng.BeforeMethodExample"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-12-15T15:21:05 IST" name="C:/Users/ADMIN/IdeaProjects/Maven_Project" finished-at="2024-12-15T15:21:05 IST" duration-ms="127">
+      <class name="testng.BeforeMethodExample">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="beforeClass" finished-at="2024-12-15T15:21:05 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="beforeMethod" finished-at="2024-12-15T15:21:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test_1()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="test_1" finished-at="2024-12-15T15:21:05 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="afterMethod" finished-at="2024-12-15T15:21:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="beforeMethod" finished-at="2024-12-15T15:21:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test_2()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="test_2" finished-at="2024-12-15T15:21:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="afterMethod" finished-at="2024-12-15T15:21:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="beforeMethod" finished-at="2024-12-15T15:21:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test_3()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="test_3" finished-at="2024-12-15T15:21:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="afterMethod" finished-at="2024-12-15T15:21:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testng.BeforeMethodExample@3d121db3]" started-at="2024-12-15T15:21:05 IST" name="afterClass" finished-at="2024-12-15T15:21:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testng.BeforeMethodExample -->
+    </test> <!-- C:/Users/ADMIN/IdeaProjects/Maven_Project -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

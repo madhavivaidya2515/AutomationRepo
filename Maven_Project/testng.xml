@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="testng.failscriptexecution.TransformClass"/>
+    </listeners>
+<!--   <parameter name="courseName" value="Selenium"/>-->
+<!--    <parameter name="cityName" value="Mumbai"/>-->
+<!--    <parameter name="browserName" value="edge"/>-->
+    <test verbose="2" parallel="false" thread-count="3" preserve-order="true" name="C:/Users/ADMIN/IdeaProjects/Maven_Project">
+        <classes>
+            <class name="testng.BeforeMethodExample"/>
+<!--            <class name="testng.TestNGAttribute"/>-->
+
+        </classes>
+    </test>
+</suite>
