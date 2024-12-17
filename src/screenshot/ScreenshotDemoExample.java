@@ -18,7 +18,7 @@ public class ScreenshotDemoExample {
         driver.manage().window().maximize();
 
         File f = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        FileHandler.copy(f,new File("E:\\screenshots(319).png"));
+        FileHandler.copy(f,new File("E:\\screenshots(320).png"));
         driver.close();
 
     }
