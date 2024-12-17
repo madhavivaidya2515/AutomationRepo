@@ -17,9 +17,6 @@ public class ScreenshotDemoExample {
         driver.navigate().to("https://www.tcs.com/");
         driver.manage().window().maximize();
 
-        File f = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        FileHandler.copy(f,new File("E:\\screenshots(319).png"));
-        driver.close();
 
     }
 }
